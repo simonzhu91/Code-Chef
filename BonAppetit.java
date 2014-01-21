@@ -1,7 +1,9 @@
 import java.util.*;
 import java.io.*;
 
-public class Main{
+//public class Main{
+
+public class BonAppetit{
 
 public class Person{
 
